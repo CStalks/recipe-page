@@ -5,7 +5,8 @@ paragraphs(p) and more while adding styles to enhance the appearance of the webp
 
 ## Key Learning Points
 * HTML Structure: I gained hands on experience in structuring web content using HTML,
-  utilizing elements like headings, paragraphs, lists, and more to organize present information effectively.
+  utilizing elements like headings, paragraphs, lists, and more to organize and present
+  information effectively.
 
 * CSS Styling: I also practiced applying CSS styles to enhance the appearance of the
   webpage and worked on colors and typography to create an appealing user interface.
