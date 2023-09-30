@@ -1,4 +1,4 @@
-# recipe-page
+# Recipe Page
 This project is a simple recipe page created using HTML and CSS. In this project,
 I focused on structuring elements such as ordered list(ol), unordered list(ul), 
 paragraphs(p) and more while adding styles to enhance the appearance of the webpages.
